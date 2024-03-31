@@ -1,2 +1,2 @@
 # CRUD_Application
-CRUD App using Flask and SQL Alchemy
+This is Python Flask CRUD Application with backend database MYSQL. It covers all operation that is create, Read, Update and Delete
